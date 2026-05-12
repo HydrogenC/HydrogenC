@@ -23,4 +23,4 @@ My contributions and interests include:
 **Others**: ![uv](https://img.shields.io/badge/uv-%23DE5FE9.svg?style=for-the-badge&logo=uv&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)  
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HydrogenC&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=HydrogenC&theme=radical&no-frame=false&no-bg=true&margin-w=4&rank=-C,-B)
